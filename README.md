@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I like to code in my spare time - I treat this hobby like puzzle or solving riddles. I prefer useful things, hence most of my projects include a "teaching" element (basic math and english).
+
 <!--
 **Pdzoc/Pdzoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
